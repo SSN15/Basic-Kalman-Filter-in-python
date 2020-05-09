@@ -1,1 +1,1 @@
-# Basic-Kalman-Filter-in-python
+This project is a python implementation of basic kalman filter for given measurements
